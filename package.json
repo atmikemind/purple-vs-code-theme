@@ -2,11 +2,12 @@
     "name": "mikemind-purple",
     "displayName": "MikeMind Purple",
     "description": "My purple VS Code theme!",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "MikeMind",
     "engines": {
         "vscode": "^1.61.0"
     },
+    "icon": "mikemind-purple.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/atmikemind/purple-vs-code-theme"
